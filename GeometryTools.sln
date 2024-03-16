@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTools.Contracts", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTools.Console", "GeometryTools.Console\GeometryTools.Console.csproj", "{64350E2C-B7E4-4AEE-AEF9-C5231BFD9F8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTools.Tests", "GeometryTools.Tests\GeometryTools.Tests.csproj", "{F7B3C265-4172-4D09-BA95-BFA763310479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{64350E2C-B7E4-4AEE-AEF9-C5231BFD9F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64350E2C-B7E4-4AEE-AEF9-C5231BFD9F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64350E2C-B7E4-4AEE-AEF9-C5231BFD9F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7B3C265-4172-4D09-BA95-BFA763310479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7B3C265-4172-4D09-BA95-BFA763310479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7B3C265-4172-4D09-BA95-BFA763310479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7B3C265-4172-4D09-BA95-BFA763310479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

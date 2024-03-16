@@ -7,4 +7,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\GeometryTools.Contracts\GeometryTools.Contracts.csproj" />
+      <ProjectReference Include="..\GeometryTools.Core\GeometryTools.Core.csproj" />
+    </ItemGroup>
+
+
 </Project>
